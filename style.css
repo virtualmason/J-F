@@ -27,13 +27,13 @@ li {
     list-style:none;
 }
 img {
-    max-width:50%;
-    max-height:50%;
+    max-width:40%;
+    max-height:15%;
     
 }
 
 nav a:hover {
-    background-color:#4F4D52; 
+    background-color:#DFDEDF; 
 }
 
 #main_content {
