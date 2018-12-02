@@ -2,11 +2,12 @@
 4F4D52 dark liver
 
 */
-header{ 
+header{
     background-color:;
-    text-align: center; 
+    text-align: center;
     padding:1em;
     font-family:  Verdana, sans-serif;
+    background-color: #F0F0F0;
 }
 
 .left {
@@ -27,6 +28,7 @@ li {
     list-style:none;
 }
 img {
+<<<<<<< HEAD
     max-width:40%;
     max-height:15%;
     
@@ -34,6 +36,15 @@ img {
 
 nav a:hover {
     background-color:#DFDEDF; 
+=======
+    max-width:50%;
+    max-height:50%;
+
+}
+
+nav a:hover {
+    background-color:#4F4D52;
+>>>>>>> 215585257dc8170b06f628a7a1374a22b45fb1cd
 }
 
 #main_content {
@@ -59,9 +70,11 @@ aside {
 }
 
 footer {
-    position: fixed;
+   position: fixed;
    text-align: center;
    bottom: 0;
    width: 100%;
-   background-color: #BFD7B5
+   background-color: #F0F0F0;
+   height: 4em;
+   border-top: 15px
    }
